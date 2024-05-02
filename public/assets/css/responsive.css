@@ -1,0 +1,60 @@
+@media (min-width: 320px) and (max-width: 575px) {
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+
+.section-find-courses .row:first-child h2{text-wrap: wrap;}
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+
+}
+
+/*----------------desktop various breakpoints----------------*/
+@media (min-width: 1601px) {
+.container{max-width: 84.5rem; width: 100%;}
+}
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+.sc_content_inner{max-width: 585px;}
+.course_tab_inner .cmn_btn_sec a{font-size: 13px; padding: 7px 7px;}
+.rounded_goal{width: 175px; height: 175px;}
+.rounded_goal span{font-size: 25px;}
+.sdgl_title h1{font-size: 50px;}
+.sdgl_ban_avatar img{max-width: 1047px; margin-top: 32px;}
+.sdgl_banner{padding-top: 165px;}
+.cmn_btn_swap{margin-top: 15px;}
+.rounded_goal p{line-height: 30px;}
+.ftr_main [class*="col-"]:nth-child(4) li{margin-right: 22px;}
+.section-awards .heading-wrapper img{right: 135px;}
+.sdgl_title h3{font-size: 22px;}
+
+
+
+}
+
+
